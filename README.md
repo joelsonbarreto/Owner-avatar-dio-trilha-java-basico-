@@ -1,2 +1,2 @@
-# Owner-avatar-dio-trilha-java-basico-
+# dio-trilha-java-basico
 Repositório para exemplos e treinamentos do curso de java basico
